@@ -1,6 +1,6 @@
 # Getting started with R and Git
 
-Student: *Last name*, *First name*
+Student: *Shih*, *Johnathan*
 
 Some helpful resources for **R**:
   * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
@@ -52,4 +52,3 @@ To practice using git, create the following changes with several commmits. First
 
 
 
-I wrote this line from my local computer
