@@ -12,4 +12,3 @@ generateY <- function(X, beta, sigma, seed = 5832652){
   # Return Y
   return(Y)
 }
-
